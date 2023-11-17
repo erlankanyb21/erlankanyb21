@@ -27,8 +27,7 @@ Welcome to the code realm where Android meets the web, backend, and the fascinat
 
 ## 📫 Get in Touch
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/erlankanyb21/)
-- 🐦 [Twitter](https://twitter.com/erlankanyb21)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/erlan-kanybekov-a57a23273/)
 
 ## 🔥 Fun Facts
 
