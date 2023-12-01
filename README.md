@@ -29,9 +29,7 @@ Welcome to the code realm where Android meets the web, backend, and the fascinat
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/erlan-kanybekov-a57a23273/)
 
-## 🔥 Fun Facts
-
-- 🎸 Strumming chords when the code needs a break.
+## 🔥 Fun facts 
 - 🚴‍♂️ Cycling through both binary and real-world landscapes.
 - 📚 Lifelong learner, forever curious about the next coding adventure.
 
