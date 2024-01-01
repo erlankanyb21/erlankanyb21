@@ -1,5 +1,4 @@
 val ErlanKanybekov = human {
-
     tech {
         day("Kotlin", "Kotlin multiplatform", "Android")
         night(".*".toRegex())
