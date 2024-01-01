@@ -1,4 +1,4 @@
-val ErlanKanybekov = human {
+
     tech {
         day("Kotlin", "Kotlin multiplatform", "Android")
         night(".*".toRegex())
@@ -10,7 +10,7 @@ val ErlanKanybekov = human {
     }
 
     links {
-        website = " https://erlankanyb21.github.io/erlankanybekov/works "
-        LinkedIn = " https://www.linkedin.com/in/erlan-kanybekov-a57a23273/ "
+        website = "https://erlankanyb21.github.io/erlankanybekov/works"
+        LinkedIn = " https://www.linkedin.com/in/erlan-kanybekov-a57a23273/"
     }
-}
+
