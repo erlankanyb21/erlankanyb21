@@ -1,12 +1,13 @@
 val ErlanKanybekov = human {
-    about {
-        name = " Erlan Kanybekov "
-        role = Developer
-    }
 
     tech {
         day("Kotlin", "Kotlin multiplatform", "Android")
         night(".*".toRegex())
+    }
+    
+    about {
+        name = "Erlan Kanybekov"
+        role = Developer
     }
 
     links {
