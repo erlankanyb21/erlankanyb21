@@ -11,7 +11,7 @@ Welcome to the code realm where Android meets the web, backend, and the fascinat
 ## 🌐 ...Full-Stack Explorer by Night
 
 - 🚀 Building websites that come to life with HTML, CSS, and JavaScript.
-- ⚙️ Exploring the mysteries of backend development using Node.js and Express.
+- ⚙️ Exploring the mysteries of backend development using Python and Django Rest Framework.
 - 🌐 Embracing the full-stack journey to create seamless digital experiences.
 
 ## 📊 Data Science Enthusiast
